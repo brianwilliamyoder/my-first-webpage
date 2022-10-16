@@ -17,3 +17,14 @@ ul {
   font-size: 20px;
   line-height: 30px
 }
+
+ol {
+  color:blueviolet;
+  text-align: right;
+  font-style: oblique;
+  font-weight: 400;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  line-height:normal
+
+}
